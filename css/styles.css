@@ -361,7 +361,6 @@ color: var(--accent-color);
 }
 
 .btn-portf{
-    
     border: 1px solid #E7E9FC;
     text-align: center;
     padding: 12px 24px;
@@ -455,9 +454,9 @@ margin-bottom: 72px
     flex-wrap: wrap;
  }
 .link-addition{
-    border-top: none;
     padding: 32px 16px;
     margin-bottom: 8px;
+    border-top: none;
     border: 1px solid #e7e9fc;
 }
 
